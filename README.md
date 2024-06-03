@@ -84,6 +84,22 @@ Recent tweets:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I will post updates, changes, and GPRPy news here.</p>&mdash; GPRPy (@GPRPySoftware) <a href="https://twitter.com/GPRPySoftware/status/1089246592786485251?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote>
 
+
+## Executing the Implementation in this project
+The GUI file is AltGCustom.py
+
+## Application Screens:
+
+# DATA Cube
+![datacubePage](https://github.com/badirusubomi/GPR-DataVisualization-APP-CAP496/assets/79780624/892f1e80-4f45-4cc1-acb9-ce1f05b2d110)
+
+# GPR Data Manipulation
+![uploadGPRfilePage](https://github.com/badirusubomi/GPR-DataVisualization-APP-CAP496/assets/79780624/46374c51-ec3c-46fd-9f5a-8f0e19c976e1)
+![moreGPRdataControls](https://github.com/badirusubomi/GPR-DataVisualization-APP-CAP496/assets/79780624/1a600abb-166d-43ef-b3be-e8ec57ab8393)
+
+# Interpolation
+![interpolatePage](https://github.com/badirusubomi/GPR-DataVisualization-APP-CAP496/assets/79780624/c307866a-3ace-4070-b553-75e785cfbd18)
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GPRPy is a free ground penetrating radar processing and visualization software developed at the University of Alabama. You can download it and install it following the instructions here: <a href="https://nsgeophysics.github.io/GPRPy/">nsgeophysics.github.io/GPRPy/</a></p>&mdash; GPRPy (@GPRPySoftware) <a href="https://twitter.com/GPRPySoftware/status/1088806792191197188?ref_src=twsrc%5Etfw">January 25, 2019</a></blockquote>
 
 
